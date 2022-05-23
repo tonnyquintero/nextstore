@@ -32,6 +32,11 @@
 .navbar-left ul {
 	margin-left: 12px;
 }
+
+.navbar-right li:first-of-type {
+margin: 0 1em 0 0;	
+}
+
 .navbar-left ul li a,
 .navbar-right ul li a {
 	text-decoration: none;
